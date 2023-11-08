@@ -221,7 +221,7 @@ body {
 }
 
 
-/* Adapting start*/
+/* Стилі адаптованого контенту під мобільні пристрої*/
 
 @media screen and (max-width: 1270px) {
     .wrapper {
